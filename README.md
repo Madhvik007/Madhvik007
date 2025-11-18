@@ -39,8 +39,8 @@
 [![An image of @madhvik007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhvik007)](https://holopin.io/@madhvik007)
 
 <p align="center">
-  <img width="48%" height=200px src="https://github-readme-stats.vercel.app/api?username=madhvik007&show_icons=true&theme=tokyonight" />
-  <img width="48%" height=200px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvik007&layout=compact&theme=tokyonight" />
+  <img width="48%" height=168px src="https://github-readme-stats.vercel.app/api?username=madhvik007&show_icons=true&theme=tokyonight" />
+  <img width="48%" height=1680px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvik007&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/madhvikkathiria">
+  <a href="https://www.linkedin.com/in/madhvikkathiria">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
