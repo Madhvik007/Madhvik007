@@ -40,7 +40,7 @@
 
 <p align="center">
   <img width="48%" height=168px src="https://github-readme-stats.vercel.app/api?username=madhvik007&show_icons=true&theme=tokyonight" />
-  <img width="48%" height=1680px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvik007&layout=compact&theme=tokyonight" />
+  <img width="48%" height=168px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvik007&layout=compact&theme=tokyonight" />
 </p>
 
 ---
